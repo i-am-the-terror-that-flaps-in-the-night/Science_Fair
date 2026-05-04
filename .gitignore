@@ -1,0 +1,55 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Mypy / type checking
+.mypy_cache/
+.dmypy.json
+
+# Pyre / Pyright
+.pyre/
+.pytype/
+
+# Environment variables
+*.env
+
+# Cache folders
+.cache/
+
+# Misc
+*.swp
+*.swo
+
